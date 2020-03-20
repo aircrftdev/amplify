@@ -1,0 +1,41 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-aircrftapp-v1-prod-222252-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrftapp-v1-prod-222252-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrftapp-v1-prod-222252-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-aircrftapp-v1-prod-222252-deployment",
+            "UnauthRoleName": "amplify-aircrftapp-v1-prod-222252-unauthRole",
+            "StackName": "amplify-aircrftapp-v1-prod-222252",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-aircrftapp-v1-prod-222252/57eca930-6af9-11ea-aa15-12dc156c2e93",
+            "AmplifyAppId": "d20qmosg6rcx6n"
+        }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-aircrftapp-v1-dev-222610-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrftapp-v1-dev-222610-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrftapp-v1-dev-222610-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-aircrftapp-v1-dev-222610-deployment",
+            "UnauthRoleName": "amplify-aircrftapp-v1-dev-222610-unauthRole",
+            "StackName": "amplify-aircrftapp-v1-dev-222610",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-aircrftapp-v1-dev-222610/cda9a6f0-6af9-11ea-b7a5-0ea20f614b35",
+            "AmplifyAppId": "d20qmosg6rcx6n"
+        }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-aircrftapp-v1-test-222800-authRole",
+            "UnauthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrftapp-v1-test-222800-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::732509984281:role/amplify-aircrftapp-v1-test-222800-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-aircrftapp-v1-test-222800-deployment",
+            "UnauthRoleName": "amplify-aircrftapp-v1-test-222800-unauthRole",
+            "StackName": "amplify-aircrftapp-v1-test-222800",
+            "StackId": "arn:aws:cloudformation:us-east-1:732509984281:stack/amplify-aircrftapp-v1-test-222800/0f3a03d0-6afa-11ea-8f4a-0e880f83ff7f",
+            "AmplifyAppId": "d20qmosg6rcx6n"
+        }
+    }
+}
